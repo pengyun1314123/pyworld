@@ -2,7 +2,8 @@
   *.mdb  
   *.ldb  
   *.sln  
-  *.config  
+  *.config
+  *.suo
       
   #过滤文件夹Debug,Release,obj  
   Debug/
